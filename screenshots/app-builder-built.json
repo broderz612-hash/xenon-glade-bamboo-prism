@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cuaderno de Datos",
+      "hasCanvas": false,
+      "bodyTextLen": 679,
+      "bodyTextHash": "363385c85d91e10565f95aaa5e1c307f6a8bc72044d5bff5414cb019ca096db0",
+      "bodyTextPrefix": "MATEMÁTICAS · 2.º GRADO Cuaderno de Datos Preguntas nuevas cada ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cuaderno de Datos",
+      "hasCanvas": false,
+      "bodyTextLen": 679,
+      "bodyTextHash": "363385c85d91e10565f95aaa5e1c307f6a8bc72044d5bff5414cb019ca096db0",
+      "bodyTextPrefix": "MATEMÁTICAS · 2.º GRADO Cuaderno de Datos Preguntas nuevas cada ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
